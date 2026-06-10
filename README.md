@@ -2,18 +2,18 @@
 ### 👩‍💻 Ingeniera en Informática & Frontend Developer 🚀
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MaryDev%20Studio&fontSize=50&animation=fadeIn" alt="Banner de Maria" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Main1123%20Spaces&fontSize=50&animation=fadeIn" alt="Banner de Maria" />
 </div>
 
 ---
 
 ## 💫 Sobre Mí
 
-¡Hola! [cite_start]Soy una apasionada del desarrollo frontend y la ingeniería de software[cite: 2, 24]. [cite_start]Me encanta crear experiencias web interactivas, dinámicas y altamente optimizadas[cite: 24, 26]. [cite_start]Combino mis habilidades técnicas de programación con el diseño de interfaces limpias y modernas para ofrecer la mejor experiencia al usuario[cite: 26].
+¡Hola! Soy una apasionada del desarrollo frontend y la ingeniería de software. Me encanta crear experiencias web interactivas, dinámicas y altamente optimizadas. Combino mis habilidades técnicas de programación con el diseño de interfaces limpias y modernas para ofrecer la mejor experiencia al usuario.
 
-* [cite_start]🏢 **Última experiencia:** Desarrolladora de Software y Soporte Técnico en la Gobernación del Estado Trujillo[cite: 7, 8].
-* [cite_start]🎓 **Educación:** Ingeniera en Informática (En espera de título) por la UPT "Mario Briceño Iragorry"[cite: 16, 17].
-* [cite_start]🗣️ **Idiomas:** Español nativo [cite: 33, 34] [cite_start]e Inglés Avanzado (Nivel C1)[cite: 30, 35, 36].
+* 🏢 **Última experiencia:** Desarrolladora de Software y Soporte Técnico en la Gobernación del Estado Trujillo.
+* 🎓 **Educación:** Ingeniera en Informática (En espera de título) por la UPT "Mario Briceño Iragorry".
+* 🗣️ **Idiomas:** Español nativo e Inglés Avanzado (Nivel C1).
 * ⚡ **Dato curioso:** Me fascina la creación de interfaces interactivas y cuidar cada detalle visual de mis proyectos.
 
 ---
@@ -24,15 +24,18 @@ Aquí tienes un vistazo a las tecnologías que utilizo para dar vida a mis ideas
 
 ### Frontend & UI/UX (¡Mi fuerte! 🎨)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Bases de Datos ⚙️
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
@@ -45,49 +48,51 @@ Aquí tienes un vistazo a las tecnologías que utilizo para dar vida a mis ideas
 ## 💼 Proyectos Destacados & Experiencia
 
 ### 🏛️ Gobernación del Estado Trujillo (Desarrolladora de Software)
-* [cite_start]⚙️ **Sistemas Administrativos:** Desarrollé múltiples módulos internos full-stack utilizando **Laravel y Svelte**, logrando incrementar la eficiencia operativa en un **60%**[cite: 10, 13].
-* [cite_start]🚴 **Landing Pages:** Diseñé y construí 3 landing pages responsive para eventos de ciclismo con un **40% de mejora en visibilidad**[cite: 11].
-* [cite_start]🌐 **INDET:** Implementé el sitio web oficial del Instituto Nacional del Deporte del Estado Trujillo usando **WordPress**, marcando su primera presencia digital[cite: 12].
+* ⚙️ **Sistemas Administrativos:** Desarrollé múltiples módulos internos full-stack utilizando **Laravel y Svelte**, logrando incrementar la eficiencia operativa en un **60%**.
+* 🚴 **Landing Pages:** Diseñé y construí 3 landing pages responsive para eventos de ciclismo con un **40% de mejora en visibilidad**.
+* 🌐 **INDET:** Implementé el sitio web oficial del Instituto Nacional del Deporte del Estado Trujillo usando **WordPress**, marcando su primera presencia digital.
 
 ### 🎓 Proyectos Académicos Relevantes (UPT)
-* [cite_start]📱 **Smart Sales App:** Creación de una aplicación móvil de gestión de ventas y pedidos con la integración de un **asistente inteligente (IA)**[cite: 18].
-* [cite_start]🏫 **Sistema INCAET:** Desarrollo del sistema de inscripción y gestión administrativa de la institución[cite: 19].
-* [cite_start]🏥 **Sistema CLET:** Desarrollo de software para el control de citas médicas y despacho de medicamentos del Consejo Legislativo[cite: 22].
+* 📱 **Smart Sales App:** Creación de una aplicación móvil de gestión de ventas y pedidos con la integración de un **asistente inteligente (IA)**.
+* 🏫 **Sistema INCAET:** Desarrollo del sistema de inscripción y gestión administrativa de la institución.
+* 🏥 **Sistema CLET:** Desarrollo de software para el control de citas médicas y despacho de medicamentos del Consejo Legislativo.
 
 ---
 
 ## 🏆 Certificaciones
 
-* [cite_start]🎨 **Figma** (Diseño de Interfaces Avanzado) [cite: 28]
-* [cite_start]🌐 **Cisco Packet Tracer** (Infraestructura y Redes) [cite: 29]
-* [cite_start]📜 **JavaScript** (Desarrollo Lógico Moderno) [cite: 31]
-* [cite_start]🇬🇧 **Inglés C1** (Fluidez profesional avanzada) [cite: 30]
+* 🤖 **Desarrollo con Inteligencia Artificial** (Mayo, 2026)
+* 📈 **Optimización SEO** — BIGschool (Mayo, 2026)
+* 🎨 **Figma** (Diseño de Interfaces Avanzado — Mayo, 2025)
+* 🌐 **Cisco Packet Tracer** (Infraestructura y Redes — 2024)
+* 📜 **JavaScript** (Desarrollo Lógico Moderno — Mayo, 2023)
+* 🇬🇧 **Inglés C1** (Fluidez profesional avanzada — Diciembre, 2023)
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Maria" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=radial&hide_border=true" alt="Racha de GitHub de Maria" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Main1123&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Maria" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Main1123&theme=radial&hide_border=true" alt="Racha de GitHub de Maria" height="180px"/>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radial&hide_border=true&langs_count=6" alt="Lenguajes más usados por Maria" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Main1123&layout=compact&theme=radial&hide_border=true&langs_count=6" alt="Lenguajes más usados por Maria" height="180px"/>
 </div>
 
 ---
 
 ## 🎯 Conectemos
 
-¿Tienes un proyecto en mente, buscas una desarrolladora frontend con buenas bases lógicas o simplemente quieres hablar de código y diseño? [cite_start]¡Escríbeme! [cite: 2, 24, 26]
+¿Tienes un proyecto en mente, buscas una desarrolladora frontend con buenas bases lógicas o simplemente quieres hablar de código y diseño? ¡Escríbeme!
 
-* [cite_start]📧 **Email:** [mariafflors1123@gmail.com](mailto:mariafflors1123@gmail.com) [cite: 4]
+* 📧 **Email:** [mariafflors1123@gmail.com](mailto:mariafflors1123@gmail.com)
 * 💼 **LinkedIn:** [Tu Enlace de LinkedIn Aquí]
 * 🌐 **Portafolio:** [Tu Enlace de Portafolio Aquí]
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_AQUI&color=deeppink&style=flat-square&label=Vistas+al+Perfil" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Main1123&color=deeppink&style=flat-square&label=Vistas+al+Perfil" alt="Contador de visitas" />
 </div>
