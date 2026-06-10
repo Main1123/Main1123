@@ -89,9 +89,9 @@ Aquí tienes un vistazo a las tecnologías que utilizo para dar vida a mis ideas
 
 ¿Tienes un proyecto en mente, buscas una desarrolladora frontend con buenas bases lógicas o simplemente quieres hablar de código y diseño? ¡Escríbeme!
 
-* 📧 **Email:** [mariafflors1123@gmail.com](mailto:mariafflors1123@gmail.com)
-* 💼 **LinkedIn:** [Tu Enlace de LinkedIn Aquí]
-* 🌐 **Portafolio:** [Tu Enlace de Portafolio Aquí]
+[![Email](https://img.shields.io/badge/Email-mariafflors1123%40gmail.com-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariafflors1123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ir_al_Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-rios-b51094244)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_Sitio-deeppink?style=for-the-badge&logo=icono&logoColor=white)](https://marydevstudio.netlify.app/)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Main1123&color=deeppink&style=flat-square&label=Vistas+al+Perfil" alt="Contador de visitas" />
